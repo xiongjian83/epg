@@ -7200,6 +7200,9 @@
 	<programme channel="咪咕足球" start="20260430001000 +0800" stop="20260430014500 +0800">
 		<title lang="zh">2025国际篮联洲际杯 小组赛 阿尔阿赫利-马拉加</title>
 	</programme>
+	<programme channel="咪咕足球" start="20260430015000 +0800" stop="20260430021000 +0800">
+		<title lang="zh">荣耀之路</title>
+	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
 	</channel>
@@ -22137,6 +22140,9 @@
 	<programme channel="newtv超级综艺" start="20260430010400 +0800" stop="20260430015100 +0800">
 		<title lang="zh">17_长相思 第二季</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260430015100 +0800" stop="20260430024300 +0800">
+		<title lang="zh">18_长相思 第二季</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -22160,6 +22166,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260430004900 +0800" stop="20260430013400 +0800">
 		<title lang="zh">26_铁梨花</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260430013400 +0800" stop="20260430021900 +0800">
+		<title lang="zh">27_铁梨花</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -22283,6 +22292,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260430004600 +0800" stop="20260430013100 +0800">
 		<title lang="zh">07_特别行动</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260430013100 +0800" stop="20260430021600 +0800">
+		<title lang="zh">08_特别行动</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
