@@ -7218,6 +7218,9 @@
 	<programme channel="咪咕综合体育" start="20260505001500 +0800" stop="20260505015000 +0800">
 		<title lang="zh">纪录片阿尔塞纳b7温格：不败之师</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20260505015000 +0800" stop="20260505015500 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -7226,6 +7229,9 @@
 	</programme>
 	<programme channel="咪咕足球" start="20260505001000 +0800" stop="20260505014000 +0800">
 		<title lang="zh">2026FIBA女篮世界杯资格赛 波多黎各-美国</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260505015000 +0800" stop="20260505021000 +0800">
+		<title lang="zh">荣耀之路</title>
 	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
@@ -22187,6 +22193,12 @@
 	</channel>
 	<programme channel="newtv金牌综艺" start="20260505000100 +0800" stop="20260505004700 +0800">
 		<title lang="zh">01_红蔷薇（DVD版）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260505004700 +0800" stop="20260505013100 +0800">
+		<title lang="zh">02_红蔷薇（DVD版）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260505013100 +0800" stop="20260505020100 +0800">
+		<title lang="zh">徽封贡酒好物推荐</title>
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260505004700 +0800" stop="20260505013100 +0800">
 		<title lang="zh">02_红蔷薇（DVD版）</title>
