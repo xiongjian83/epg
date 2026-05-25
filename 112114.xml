@@ -12240,6 +12240,12 @@
 	<programme channel="咪咕足球" start="20260526000500 +0800" stop="20260526014500 +0800">
 		<title lang="zh">2025国际篮联洲际杯 季军赛 阿尔阿赫利-弗拉门戈</title>
 	</programme>
+	<programme channel="咪咕足球" start="20260526014500 +0800" stop="20260526015000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260526015000 +0800" stop="20260526021000 +0800">
+		<title lang="zh">荣耀之路</title>
+	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
 	</channel>
@@ -37241,6 +37247,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260526013200 +0800" stop="20260526020200 +0800">
 		<title lang="zh">徽封贡酒好物推荐</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260526020200 +0800" stop="20260526024700 +0800">
+		<title lang="zh">18_红蔷薇（DVD版）</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
