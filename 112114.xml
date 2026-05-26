@@ -33429,6 +33429,9 @@
 	<programme channel="newtv超级综艺" start="20260527014400 +0800" stop="20260527022900 +0800">
 		<title lang="zh">04_启航：当风起时</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260527022900 +0800" stop="20260527031600 +0800">
+		<title lang="zh">05_启航：当风起时</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -33437,6 +33440,9 @@
 	</programme>
 	<programme channel="newtv超级体育" start="20260527010500 +0800" stop="20260527023600 +0800">
 		<title lang="zh">2025年世界田联钻石联赛罗马站</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20260527023600 +0800" stop="20260527040000 +0800">
+		<title lang="zh">2025/2026赛季CBA半决赛</title>
 	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
