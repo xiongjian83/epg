@@ -16521,6 +16521,9 @@
 	<programme channel="咪咕综合体育" start="20260529000500 +0800" stop="20260529031500 +0800">
 		<title lang="zh">JCK觉城之夜N118期</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20260529031500 +0800" stop="20260529032500 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -16529,6 +16532,9 @@
 	</programme>
 	<programme channel="咪咕足球" start="20260529001000 +0800" stop="20260529014000 +0800">
 		<title lang="zh">2026FIBA女篮世界杯资格赛 美国-塞内加尔</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260529022000 +0800" stop="20260529040000 +0800">
+		<title lang="zh">2025NBL联赛 常规赛第9轮 广西威壮-香港金牛</title>
 	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
@@ -49953,11 +49959,20 @@
 	<programme channel="newtv超级综艺" start="20260529004700 +0800" stop="20260529014300 +0800">
 		<title lang="zh">15_启航：当风起时</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260529014300 +0800" stop="20260529023600 +0800">
+		<title lang="zh">16_启航：当风起时</title>
+	</programme>
+	<programme channel="newtv超级综艺" start="20260529023600 +0800" stop="20260529032600 +0800">
+		<title lang="zh">17_启航：当风起时</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
 	<programme channel="newtv超级体育" start="20260529010500 +0800" stop="20260529023600 +0800">
 		<title lang="zh">实况录像-2025年世界田联钻石联赛 斯德哥尔摩站</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20260529023600 +0800" stop="20260529040000 +0800">
+		<title lang="zh">实况录像-2025/2026赛季中国男子篮球职业联赛 半决赛 6</title>
 	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
@@ -49965,11 +49980,20 @@
 	<programme channel="newtv超级电影" start="20260529013200 +0800" stop="20260529030000 +0800">
 		<title lang="zh">毕业之前说再见</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20260529030000 +0800" stop="20260529040400 +0800">
+		<title lang="zh">无名客栈之麒麟觉醒</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
 	<programme channel="newtv超级电视剧" start="20260529005400 +0800" stop="20260529013900 +0800">
 		<title lang="zh">59_林海雪原</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260529022300 +0800" stop="20260529030700 +0800">
+		<title lang="zh">61_林海雪原</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260529030700 +0800" stop="20260529035200 +0800">
+		<title lang="zh">62_林海雪原</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -50522,6 +50546,12 @@
 	</channel>
 	<programme channel="newtv金牌综艺" start="20260529013500 +0800" stop="20260529022100 +0800">
 		<title lang="zh">32_红蔷薇（DVD版）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260529022100 +0800" stop="20260529030600 +0800">
+		<title lang="zh">33_红蔷薇（DVD版）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260529030600 +0800" stop="20260529035100 +0800">
+		<title lang="zh">34_红蔷薇（DVD版）</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
