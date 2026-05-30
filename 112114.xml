@@ -49845,6 +49845,9 @@
 	<programme channel="newtv超级电影" start="20260531002500 +0800" stop="20260531013400 +0800">
 		<title lang="zh">毒战生死线</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20260531013400 +0800" stop="20260531025000 +0800">
+		<title lang="zh">毒战生死线2</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -49853,6 +49856,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260531004700 +0800" stop="20260531013400 +0800">
 		<title lang="zh">05_三十而已</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260531013400 +0800" stop="20260531022000 +0800">
+		<title lang="zh">06_三十而已</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -50405,6 +50411,9 @@
 	</channel>
 	<programme channel="newtv金牌综艺" start="20260531004400 +0800" stop="20260531012900 +0800">
 		<title lang="zh">41_红蔷薇（DVD版）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260531012900 +0800" stop="20260531015900 +0800">
+		<title lang="zh">白水杜康好物推荐</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
