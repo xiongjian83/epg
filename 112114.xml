@@ -13029,6 +13029,9 @@
 	<programme channel="咪咕综合体育" start="20260601010500 +0800" stop="20260601011000 +0800">
 		<title lang="zh">频道宣传</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20260601011000 +0800" stop="20260601034000 +0800">
+		<title lang="zh">UFC格斗之夜273期 主赛</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
