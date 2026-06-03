@@ -16923,6 +16923,9 @@
 	<programme channel="咪咕综合体育" start="20260604020000 +0800" stop="20260604034500 +0800">
 		<title lang="zh">2025国际马联场地障碍欧锦赛个人决赛 1</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20260604034500 +0800" stop="20260604040000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
