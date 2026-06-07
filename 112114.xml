@@ -13260,6 +13260,9 @@
 	<programme channel="咪咕综合体育" start="20260608004500 +0800" stop="20260608013500 +0800">
 		<title lang="zh">纪录片拜仁慕尼黑：传奇背后 第四集</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20260608014000 +0800" stop="20260608035500 +0800">
+		<title lang="zh">UFC格斗之夜 澳门站</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -13268,6 +13271,9 @@
 	</programme>
 	<programme channel="咪咕足球" start="20260608000500 +0800" stop="20260608013500 +0800">
 		<title lang="zh">2027男篮世界杯预选赛 菲律宾-关岛</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260608013500 +0800" stop="20260608015000 +0800">
+		<title lang="zh">频道宣传</title>
 	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
@@ -41796,6 +41802,9 @@
 	<programme channel="newtv超级电视剧" start="20260608005000 +0800" stop="20260608013900 +0800">
 		<title lang="zh">02_榜上佳婿</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20260608013900 +0800" stop="20260608022500 +0800">
+		<title lang="zh">03_榜上佳婿</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -42350,6 +42359,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260608005300 +0800" stop="20260608013500 +0800">
 		<title lang="zh">35_惊蛰</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260608013500 +0800" stop="20260608020500 +0800">
+		<title lang="zh">徽封贡酒好物推荐</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
