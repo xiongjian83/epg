@@ -50268,6 +50268,9 @@
 	<programme channel="newtv超级体育" start="20260611010500 +0800" stop="20260611023600 +0800">
 		<title lang="zh">实况录像-2026年长三角国际田径钻石赛(上海/绍兴柯桥)</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20260611023600 +0800" stop="20260611040000 +0800">
+		<title lang="zh">实况录像-2025/2026赛季中国男子篮球职业联赛 总决赛 1</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
