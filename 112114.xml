@@ -50628,6 +50628,9 @@
 	<programme channel="newtv超级综艺" start="20260612020400 +0800" stop="20260612025100 +0800">
 		<title lang="zh">31_滤镜</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260612025100 +0800" stop="20260612034100 +0800">
+		<title lang="zh">32_滤镜</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -50645,6 +50648,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20260612015400 +0800" stop="20260612030700 +0800">
 		<title lang="zh">楚留香之盗帅觉醒</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20260612030700 +0800" stop="20260612045900 +0800">
+		<title lang="zh">长安伏妖</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -51221,6 +51227,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260612021100 +0800" stop="20260612025700 +0800">
 		<title lang="zh">18_国家机密</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260612025700 +0800" stop="20260612034200 +0800">
+		<title lang="zh">19_国家机密</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
