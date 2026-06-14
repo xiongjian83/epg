@@ -13035,6 +13035,9 @@
 	<programme channel="咪咕足球" start="20260615000500 +0800" stop="20260615014000 +0800">
 		<title lang="zh">2026国青男篮热身赛 第六场 中国U17男篮-美国犹他预科篮球队</title>
 	</programme>
+	<programme channel="咪咕足球" start="20260615015000 +0800" stop="20260615021000 +0800">
+		<title lang="zh">荣耀之路</title>
+	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
 	</channel>
@@ -42315,6 +42318,9 @@
 	<programme channel="newtv超级综艺" start="20260615010300 +0800" stop="20260615014900 +0800">
 		<title lang="zh">16_逆流而上的你</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260615014900 +0800" stop="20260615023500 +0800">
+		<title lang="zh">17_逆流而上的你</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -42368,6 +42374,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260615005600 +0800" stop="20260615014100 +0800">
 		<title lang="zh">37_榜上佳婿</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260615014100 +0800" stop="20260615022600 +0800">
+		<title lang="zh">38_榜上佳婿</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -42923,6 +42932,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260615010900 +0800" stop="20260615013900 +0800">
 		<title lang="zh">畅倍清菊苣耐力特膳粉好物推荐</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260615013900 +0800" stop="20260615022400 +0800">
+		<title lang="zh">12_红蔷薇（DVD版）</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
