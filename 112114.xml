@@ -16407,6 +16407,9 @@
 	<programme channel="咪咕足球" start="20260616022000 +0800" stop="20260616035000 +0800">
 		<title lang="zh">NBL城燃之战-25/26赛季 常规赛第12轮 长沙勇胜-江西鲸裕清酒</title>
 	</programme>
+	<programme channel="咪咕足球" start="20260616040500 +0800" stop="20260616044000 +0800">
+		<title lang="zh">西班牙篮球黄金一代05 接班人们</title>
+	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
 	</channel>
@@ -49596,6 +49599,9 @@
 	<programme channel="newtv超级电影" start="20260616023200 +0800" stop="20260616040000 +0800">
 		<title lang="zh">你的样子</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20260616040000 +0800" stop="20260616052600 +0800">
+		<title lang="zh">我爱冒牌机器女友</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -49613,6 +49619,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260616031800 +0800" stop="20260616040400 +0800">
 		<title lang="zh">兰桐花开05</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260616040400 +0800" stop="20260616040800 +0800">
+		<title lang="zh">星推荐</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -50177,6 +50186,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260616031800 +0800" stop="20260616034800 +0800">
 		<title lang="zh">白水杜康好物推荐</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260616034800 +0800" stop="20260616043400 +0800">
+		<title lang="zh">19_红蔷薇（DVD版）</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
