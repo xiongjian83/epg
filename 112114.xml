@@ -49977,50 +49977,23 @@
 	<programme channel="newtv超级综艺" start="20260619020500 +0800" stop="20260619025300 +0800">
 		<title lang="zh">01_逐玉</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260619025300 +0800" stop="20260619034000 +0800">
+		<title lang="zh">02_逐玉</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
-	<programme channel="newtv超级体育" start="20260619000000 +0800" stop="20260619020000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级体育" start="20260619020000 +0800" stop="20260619040000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级体育" start="20260619060000 +0800" stop="20260619080000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级体育" start="20260619080000 +0800" stop="20260619100600 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级体育" start="20260619100600 +0800" stop="20260619120000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级体育" start="20260619120000 +0800" stop="20260619140000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级体育" start="20260619140000 +0800" stop="20260619160000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级体育" start="20260619160000 +0800" stop="20260619180000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级体育" start="20260619180000 +0800" stop="20260619190000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级体育" start="20260619190000 +0800" stop="20260619200000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级体育" start="20260619200000 +0800" stop="20260619220000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级体育" start="20260619220000 +0800" stop="20260619235900 +0800">
-		<title lang="zh">精彩节目</title>
+	<programme channel="newtv超级体育" start="20260619023000 +0800" stop="20260619053000 +0800">
+		<title lang="zh">2026世界杯-小组赛B组第二轮(瑞士-波黑)</title>
 	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
 	<programme channel="newtv超级电影" start="20260619012000 +0800" stop="20260619023000 +0800">
 		<title lang="zh">新封神之二郎神</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20260619023000 +0800" stop="20260619034300 +0800">
+		<title lang="zh">西游记红孩儿</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -50594,6 +50567,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260619014300 +0800" stop="20260619022900 +0800">
 		<title lang="zh">32_红蔷薇（DVD版）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260619022900 +0800" stop="20260619031400 +0800">
+		<title lang="zh">33_红蔷薇（DVD版）</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
