@@ -16302,6 +16302,9 @@
 	<programme channel="咪咕足球" start="20260621000500 +0800" stop="20260621013500 +0800">
 		<title lang="zh">2026FIBA女篮世界杯资格赛 澳大利亚-匈牙利</title>
 	</programme>
+	<programme channel="咪咕足球" start="20260621013500 +0800" stop="20260621015000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
 	</channel>
@@ -49971,41 +49974,8 @@
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
-	<programme channel="newtv超级电影" start="20260621000000 +0800" stop="20260621020000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级电影" start="20260621020000 +0800" stop="20260621040000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级电影" start="20260621060000 +0800" stop="20260621080000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级电影" start="20260621080000 +0800" stop="20260621100600 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级电影" start="20260621100600 +0800" stop="20260621120000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级电影" start="20260621120000 +0800" stop="20260621140000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级电影" start="20260621140000 +0800" stop="20260621160000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级电影" start="20260621160000 +0800" stop="20260621180000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级电影" start="20260621180000 +0800" stop="20260621190000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级电影" start="20260621190000 +0800" stop="20260621200000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级电影" start="20260621200000 +0800" stop="20260621220000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级电影" start="20260621220000 +0800" stop="20260621235900 +0800">
-		<title lang="zh">精彩节目</title>
+	<programme channel="newtv超级电影" start="20260621012200 +0800" stop="20260621024200 +0800">
+		<title lang="zh">沙鹰行动</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -50015,6 +49985,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260621005700 +0800" stop="20260621014200 +0800">
 		<title lang="zh">兰桐花开27</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260621014200 +0800" stop="20260621022800 +0800">
+		<title lang="zh">兰桐花开28</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
