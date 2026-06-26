@@ -16224,11 +16224,20 @@
 	<programme channel="咪咕综合体育" start="20260627002000 +0800" stop="20260627020000 +0800">
 		<title lang="zh">全景世界杯-2026美加墨世界杯 F组第3轮 突尼斯-荷兰</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20260627020000 +0800" stop="20260627051000 +0800">
+		<title lang="zh">2026美加墨世界杯 I组第3轮 挪威-法国 直播</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
 	<programme channel="咪咕足球" start="20260627000500 +0800" stop="20260627013500 +0800">
 		<title lang="zh">2027男篮世界杯预选赛 菲律宾-关岛</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260627013500 +0800" stop="20260627015000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260627015000 +0800" stop="20260627021000 +0800">
+		<title lang="zh">荣耀之路</title>
 	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
@@ -49899,6 +49908,9 @@
 	<programme channel="newtv超级电影" start="20260627000400 +0800" stop="20260627013400 +0800">
 		<title lang="zh">鲨卷风2</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20260627013400 +0800" stop="20260627030300 +0800">
+		<title lang="zh">鲨卷风3</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -50465,6 +50477,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260627011600 +0800" stop="20260627015100 +0800">
 		<title lang="zh">TEWYOL远红外前列腺理疗贴-渠道（右）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260627015100 +0800" stop="20260627023600 +0800">
+		<title lang="zh">24_雾都魅影</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
