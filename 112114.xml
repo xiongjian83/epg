@@ -42321,6 +42321,9 @@
 	<programme channel="newtv超级综艺" start="20260629004200 +0800" stop="20260629012800 +0800">
 		<title lang="zh">16_在暴雪时分</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260629012800 +0800" stop="20260629021400 +0800">
+		<title lang="zh">17_在暴雪时分</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -42329,6 +42332,9 @@
 	</programme>
 	<programme channel="newtv超级体育" start="20260629010000 +0800" stop="20260629013000 +0800">
 		<title lang="zh">燃动金杯-2026年世界杯小组赛第二轮进球集锦</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20260629013000 +0800" stop="20260629053000 +0800">
+		<title lang="zh">2026世界杯-1/16决赛(南非-加拿大)</title>
 	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
@@ -42896,6 +42902,9 @@
 	</channel>
 	<programme channel="newtv金牌综艺" start="20260629004200 +0800" stop="20260629012600 +0800">
 		<title lang="zh">01_秋蝉</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260629012600 +0800" stop="20260629020100 +0800">
+		<title lang="zh">TEWYOL远红外前列腺理疗贴-渠道（右）</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
