@@ -16524,6 +16524,9 @@
 	<programme channel="咪咕综合体育" start="20260703014000 +0800" stop="20260703015000 +0800">
 		<title lang="zh">詹前顾后</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20260703015000 +0800" stop="20260703020000 +0800">
+		<title lang="zh">世界杯宣传</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -16535,6 +16538,9 @@
 	</programme>
 	<programme channel="咪咕足球" start="20260703014000 +0800" stop="20260703015000 +0800">
 		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260703015000 +0800" stop="20260703021000 +0800">
+		<title lang="zh">荣耀之路</title>
 	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
@@ -50066,6 +50072,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260703010200 +0800" stop="20260703014500 +0800">
 		<title lang="zh">45_人间正道是沧桑</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260703014500 +0800" stop="20260703022700 +0800">
+		<title lang="zh">46_人间正道是沧桑</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
