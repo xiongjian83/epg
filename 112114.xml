@@ -16113,6 +16113,9 @@
 	<programme channel="咪咕足球" start="20260704000500 +0800" stop="20260704013500 +0800">
 		<title lang="zh">2026国青男篮热身赛 第四场 中国U17男篮-新西兰U17男篮</title>
 	</programme>
+	<programme channel="咪咕足球" start="20260704013500 +0800" stop="20260704015000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
 	</channel>
@@ -49647,6 +49650,9 @@
 	<programme channel="newtv超级综艺" start="20260704003500 +0800" stop="20260704013100 +0800">
 		<title lang="zh">15_启航：当风起时</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260704013100 +0800" stop="20260704022500 +0800">
+		<title lang="zh">16_启航：当风起时</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -49667,6 +49673,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260704004900 +0800" stop="20260704013200 +0800">
 		<title lang="zh">50_人间正道是沧桑</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260704013200 +0800" stop="20260704021800 +0800">
+		<title lang="zh">01_蝶影</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -50219,6 +50228,9 @@
 	</channel>
 	<programme channel="newtv金牌综艺" start="20260704004200 +0800" stop="20260704012600 +0800">
 		<title lang="zh">26_秋蝉</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260704012600 +0800" stop="20260704015700 +0800">
+		<title lang="zh">保罗麦克牛皮凉席</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
