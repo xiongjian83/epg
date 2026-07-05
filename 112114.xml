@@ -42792,6 +42792,9 @@
 	<programme channel="newtv金牌综艺" start="20260706002900 +0800" stop="20260706011300 +0800">
 		<title lang="zh">36_秋蝉</title>
 	</programme>
+	<programme channel="newtv金牌综艺" start="20260706011300 +0800" stop="20260706014400 +0800">
+		<title lang="zh">保罗麦克牛皮凉席</title>
+	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
 	</channel>
