@@ -16374,6 +16374,9 @@
 	<programme channel="咪咕综合体育" start="20260711013500 +0800" stop="20260711015500 +0800">
 		<title lang="zh">睛彩世界杯</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20260711020000 +0800" stop="20260711051000 +0800">
+		<title lang="zh">2026美加墨世界杯 1/4决赛 西班牙-比利时 直播</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -16382,6 +16385,9 @@
 	</programme>
 	<programme channel="咪咕足球" start="20260711013500 +0800" stop="20260711015000 +0800">
 		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260711015000 +0800" stop="20260711021000 +0800">
+		<title lang="zh">荣耀之路</title>
 	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
@@ -51029,6 +51035,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260711010700 +0800" stop="20260711014700 +0800">
 		<title lang="zh">鹿胎常青胶囊-渠道（右）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260711014700 +0800" stop="20260711023300 +0800">
+		<title lang="zh">12_孤战</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
