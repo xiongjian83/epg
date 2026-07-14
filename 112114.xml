@@ -16818,6 +16818,9 @@
 	<programme channel="咪咕足球" start="20260715000500 +0800" stop="20260715013500 +0800">
 		<title lang="zh">2026FIBA女篮世界杯资格赛 澳大利亚-日本</title>
 	</programme>
+	<programme channel="咪咕足球" start="20260715013500 +0800" stop="20260715015000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
 	</channel>
@@ -50018,6 +50021,9 @@
 	</programme>
 	<programme channel="newtv超级体育" start="20260715010000 +0800" stop="20260715013000 +0800">
 		<title lang="zh">燃动金杯-2026年世界杯1/16决赛进球集锦</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20260715013000 +0800" stop="20260715053000 +0800">
+		<title lang="zh">2026世界杯-半决赛(法国-西班牙)</title>
 	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
