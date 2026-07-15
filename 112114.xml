@@ -16869,6 +16869,9 @@
 	<programme channel="咪咕足球" start="20260716000500 +0800" stop="20260716013500 +0800">
 		<title lang="zh">2026FIBA女篮世界杯资格赛 澳大利亚-匈牙利</title>
 	</programme>
+	<programme channel="咪咕足球" start="20260716013500 +0800" stop="20260716015000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
 	</channel>
@@ -50337,6 +50340,9 @@
 	<programme channel="newtv超级综艺" start="20260716004100 +0800" stop="20260716012700 +0800">
 		<title lang="zh">15_安家</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260716012700 +0800" stop="20260716021200 +0800">
+		<title lang="zh">16_安家</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -50345,6 +50351,9 @@
 	</programme>
 	<programme channel="newtv超级体育" start="20260716010000 +0800" stop="20260716013000 +0800">
 		<title lang="zh">燃动金杯-2026年世界杯1/16决赛进球集锦</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20260716013000 +0800" stop="20260716053000 +0800">
+		<title lang="zh">2026世界杯-半决赛(英格兰-阿根廷)</title>
 	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
@@ -50360,6 +50369,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260716005200 +0800" stop="20260716013800 +0800">
 		<title lang="zh">20_淬火年代</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260716013800 +0800" stop="20260716022300 +0800">
+		<title lang="zh">21_淬火年代</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -50912,6 +50924,9 @@
 	</channel>
 	<programme channel="newtv金牌综艺" start="20260716004000 +0800" stop="20260716012600 +0800">
 		<title lang="zh">36_孤战</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260716012600 +0800" stop="20260716015600 +0800">
+		<title lang="zh">白水杜康好物推荐</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
