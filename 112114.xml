@@ -50106,6 +50106,9 @@
 	<programme channel="newtv超级综艺" start="20260717004600 +0800" stop="20260717013000 +0800">
 		<title lang="zh">21_安家</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260717013000 +0800" stop="20260717021600 +0800">
+		<title lang="zh">22_安家</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
