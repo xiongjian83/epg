@@ -16638,6 +16638,9 @@
 	<programme channel="咪咕足球" start="20260722000500 +0800" stop="20260722013500 +0800">
 		<title lang="zh">2027男篮世界杯预选赛 菲律宾-关岛</title>
 	</programme>
+	<programme channel="咪咕足球" start="20260722013500 +0800" stop="20260722015000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
 	</channel>
@@ -51086,6 +51089,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260722010800 +0800" stop="20260722013800 +0800">
 		<title lang="zh">徽封贡酒好物推荐</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260722013800 +0800" stop="20260722022100 +0800">
+		<title lang="zh">17_秋蝉</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
