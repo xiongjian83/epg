@@ -16545,6 +16545,9 @@
 	<programme channel="咪咕综合体育" start="20260723000000 +0800" stop="20260723014000 +0800">
 		<title lang="zh">纪录片杰拉德：成就梦想</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20260723014500 +0800" stop="20260723041500 +0800">
+		<title lang="zh">UFC格斗之夜273期 主赛</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -16553,6 +16556,9 @@
 	</programme>
 	<programme channel="咪咕足球" start="20260723000500 +0800" stop="20260723013500 +0800">
 		<title lang="zh">2027男篮世界杯预选赛 澳大利亚-新西兰</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260723013500 +0800" stop="20260723015000 +0800">
+		<title lang="zh">频道宣传</title>
 	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
@@ -50220,6 +50226,9 @@
 	<programme channel="newtv超级综艺" start="20260723005800 +0800" stop="20260723014300 +0800">
 		<title lang="zh">06_玫瑰的故事</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260723014300 +0800" stop="20260723022800 +0800">
+		<title lang="zh">07_玫瑰的故事</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -50235,6 +50244,9 @@
 	<programme channel="newtv超级电影" start="20260723001800 +0800" stop="20260723013900 +0800">
 		<title lang="zh">王者后羿</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20260723013900 +0800" stop="20260723025600 +0800">
+		<title lang="zh">大力出奇迹</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -50243,6 +50255,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260723004900 +0800" stop="20260723013500 +0800">
 		<title lang="zh">21_扫毒风暴</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260723013500 +0800" stop="20260723022100 +0800">
+		<title lang="zh">22_扫毒风暴</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -50798,6 +50813,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260723005000 +0800" stop="20260723013400 +0800">
 		<title lang="zh">22_秋蝉</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260723013400 +0800" stop="20260723020400 +0800">
+		<title lang="zh">徽封贡酒好物推荐</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
