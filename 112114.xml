@@ -16563,6 +16563,9 @@
 	<programme channel="咪咕足球" start="20260724000500 +0800" stop="20260724013500 +0800">
 		<title lang="zh">2027男篮世界杯预选赛 美国-墨西哥</title>
 	</programme>
+	<programme channel="咪咕足球" start="20260724013500 +0800" stop="20260724015000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
 	</channel>
@@ -50580,6 +50583,9 @@
 	<programme channel="newtv超级电影" start="20260724001900 +0800" stop="20260724014000 +0800">
 		<title lang="zh">跨越时空去爱你</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20260724014000 +0800" stop="20260724031200 +0800">
+		<title lang="zh">山歌</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -50588,6 +50594,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260724004700 +0800" stop="20260724013400 +0800">
 		<title lang="zh">26_扫毒风暴</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260724013400 +0800" stop="20260724022100 +0800">
+		<title lang="zh">27_扫毒风暴</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
