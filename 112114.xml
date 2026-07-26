@@ -13137,6 +13137,9 @@
 	<programme channel="咪咕综合体育" start="20260727001000 +0800" stop="20260727011000 +0800">
 		<title lang="zh">曼联：为了荣誉</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20260727011500 +0800" stop="20260727031500 +0800">
+		<title lang="zh">UFC第329期 主赛</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -42147,6 +42150,9 @@
 	<programme channel="newtv超级综艺" start="20260727002700 +0800" stop="20260727011400 +0800">
 		<title lang="zh">28_玫瑰的故事</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260727011400 +0800" stop="20260727020100 +0800">
+		<title lang="zh">29_玫瑰的故事</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -42164,6 +42170,9 @@
 	</channel>
 	<programme channel="newtv超级电视剧" start="20260727001000 +0800" stop="20260727005500 +0800">
 		<title lang="zh">07_刑警的日子</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260727005500 +0800" stop="20260727014000 +0800">
+		<title lang="zh">08_刑警的日子</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
