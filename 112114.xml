@@ -16827,11 +16827,17 @@
 	<programme channel="咪咕综合体育" start="20260729012500 +0800" stop="20260729013000 +0800">
 		<title lang="zh">频道宣传</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20260729013000 +0800" stop="20260729033000 +0800">
+		<title lang="zh">UFC格斗之夜281期 主赛</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
 	<programme channel="咪咕足球" start="20260729000500 +0800" stop="20260729014000 +0800">
 		<title lang="zh">2026国青男篮热身赛 第六场 中国U17男篮-美国犹他预科篮球队</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260729015000 +0800" stop="20260729021000 +0800">
+		<title lang="zh">荣耀之路</title>
 	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
@@ -50811,6 +50817,9 @@
 	<programme channel="newtv超级综艺" start="20260729005000 +0800" stop="20260729013600 +0800">
 		<title lang="zh">04_亲爱的仇敌</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260729013600 +0800" stop="20260729022500 +0800">
+		<title lang="zh">05_亲爱的仇敌</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -51389,6 +51398,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260729011000 +0800" stop="20260729014000 +0800">
 		<title lang="zh">杏花村好物推荐</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260729014000 +0800" stop="20260729022500 +0800">
+		<title lang="zh">02_密战无声</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
