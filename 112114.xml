@@ -50796,6 +50796,9 @@
 	<programme channel="newtv超级电视剧" start="20260730004800 +0800" stop="20260730013300 +0800">
 		<title lang="zh">23_刑警的日子</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20260730013300 +0800" stop="20260730021900 +0800">
+		<title lang="zh">24_刑警的日子</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
