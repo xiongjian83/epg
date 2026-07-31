@@ -16167,11 +16167,17 @@
 	<programme channel="咪咕综合体育" start="20260801010000 +0800" stop="20260801015000 +0800">
 		<title lang="zh">纪录片拜仁慕尼黑：传奇背后 第三集</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20260801015000 +0800" stop="20260801015500 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
 	<programme channel="咪咕足球" start="20260801000500 +0800" stop="20260801013500 +0800">
 		<title lang="zh">2026中国男篮系列热身赛 中国男篮-澳大利亚男篮</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260801015000 +0800" stop="20260801021000 +0800">
+		<title lang="zh">荣耀之路</title>
 	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
@@ -50373,6 +50379,9 @@
 	<programme channel="newtv超级综艺" start="20260801005600 +0800" stop="20260801013700 +0800">
 		<title lang="zh">21_亲爱的仇敌</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260801013700 +0800" stop="20260801022400 +0800">
+		<title lang="zh">22_亲爱的仇敌</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -50393,6 +50402,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260801005200 +0800" stop="20260801013700 +0800">
 		<title lang="zh">09_三十而已</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260801013700 +0800" stop="20260801022100 +0800">
+		<title lang="zh">10_三十而已</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -50948,6 +50960,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260801012000 +0800" stop="20260801015000 +0800">
 		<title lang="zh">杏花村好物推荐</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260801015000 +0800" stop="20260801023500 +0800">
+		<title lang="zh">16_密战无声</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
