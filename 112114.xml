@@ -16620,6 +16620,12 @@
 	<programme channel="咪咕足球" start="20260805000500 +0800" stop="20260805013500 +0800">
 		<title lang="zh">2026FIBA女篮世界杯资格赛 美国-意大利</title>
 	</programme>
+	<programme channel="咪咕足球" start="20260805013500 +0800" stop="20260805015000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260805015000 +0800" stop="20260805021000 +0800">
+		<title lang="zh">荣耀之路</title>
+	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
 	</channel>
@@ -50181,6 +50187,9 @@
 	<programme channel="newtv超级综艺" start="20260805011000 +0800" stop="20260805015500 +0800">
 		<title lang="zh">21_蓝盔特战队</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260805015500 +0800" stop="20260805024100 +0800">
+		<title lang="zh">22_蓝盔特战队</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -50204,6 +50213,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260805004900 +0800" stop="20260805013400 +0800">
 		<title lang="zh">29_三十而已</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260805013400 +0800" stop="20260805022100 +0800">
+		<title lang="zh">30_三十而已</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -50759,6 +50771,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260805005400 +0800" stop="20260805013800 +0800">
 		<title lang="zh">01_秋蝉</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260805013800 +0800" stop="20260805020700 +0800">
+		<title lang="zh">徽封贡酒好物推荐</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
