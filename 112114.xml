@@ -16392,6 +16392,9 @@
 	<programme channel="咪咕足球" start="20260806013500 +0800" stop="20260806015000 +0800">
 		<title lang="zh">频道宣传</title>
 	</programme>
+	<programme channel="咪咕足球" start="20260806015000 +0800" stop="20260806021000 +0800">
+		<title lang="zh">荣耀之路</title>
+	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
 	</channel>
@@ -49920,6 +49923,9 @@
 	<programme channel="newtv超级综艺" start="20260806005300 +0800" stop="20260806013900 +0800">
 		<title lang="zh">28_蓝盔特战队</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260806013900 +0800" stop="20260806022400 +0800">
+		<title lang="zh">29_蓝盔特战队</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -49934,6 +49940,9 @@
 	</channel>
 	<programme channel="newtv超级电影" start="20260806001400 +0800" stop="20260806014100 +0800">
 		<title lang="zh">圆环行动</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20260806014100 +0800" stop="20260806025700 +0800">
+		<title lang="zh">毒战生死线2</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
