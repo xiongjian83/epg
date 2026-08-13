@@ -49746,11 +49746,17 @@
 	<programme channel="newtv超级综艺" start="20260814004500 +0800" stop="20260814013300 +0800">
 		<title lang="zh">05_很想很想你</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260814013300 +0800" stop="20260814021900 +0800">
+		<title lang="zh">06_很想很想你</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
 	<programme channel="newtv超级体育" start="20260814000500 +0800" stop="20260814010600 +0800">
 		<title lang="zh">2026年世界泳联花样游泳世界杯总决赛-精彩</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20260814010600 +0800" stop="20260814023600 +0800">
+		<title lang="zh">实况录像-2026世界杯 1/8决赛 墨西哥队-英格兰队</title>
 	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
@@ -49763,6 +49769,9 @@
 	</channel>
 	<programme channel="newtv超级电视剧" start="20260814002300 +0800" stop="20260814010900 +0800">
 		<title lang="zh">30_蛮好的人生</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260814010900 +0800" stop="20260814015400 +0800">
+		<title lang="zh">31_蛮好的人生</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -50315,6 +50324,9 @@
 	</channel>
 	<programme channel="newtv金牌综艺" start="20260814002400 +0800" stop="20260814010800 +0800">
 		<title lang="zh">46_秋蝉</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260814010800 +0800" stop="20260814013800 +0800">
+		<title lang="zh">杏花村好物推荐</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
