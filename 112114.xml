@@ -41799,6 +41799,9 @@
 	<programme channel="newtv超级综艺" start="20260824000400 +0800" stop="20260824005000 +0800">
 		<title lang="zh">32_梅花红桃</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260824005000 +0800" stop="20260824012800 +0800">
+		<title lang="zh">01_闪耀的她</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -41841,41 +41844,8 @@
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
-	<programme channel="newtv超级电影" start="20260824000000 +0800" stop="20260824020000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级电影" start="20260824020000 +0800" stop="20260824040000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级电影" start="20260824060000 +0800" stop="20260824080000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级电影" start="20260824080000 +0800" stop="20260824100600 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级电影" start="20260824100600 +0800" stop="20260824120000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级电影" start="20260824120000 +0800" stop="20260824140000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级电影" start="20260824140000 +0800" stop="20260824160000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级电影" start="20260824160000 +0800" stop="20260824180000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级电影" start="20260824180000 +0800" stop="20260824190000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级电影" start="20260824190000 +0800" stop="20260824200000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级电影" start="20260824200000 +0800" stop="20260824220000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级电影" start="20260824220000 +0800" stop="20260824235900 +0800">
-		<title lang="zh">精彩节目</title>
+	<programme channel="newtv超级电影" start="20260824004200 +0800" stop="20260824015100 +0800">
+		<title lang="zh">飞鸿笑传</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
