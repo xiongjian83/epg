@@ -16248,6 +16248,9 @@
 	<programme channel="咪咕综合体育" start="20260830024500 +0800" stop="20260830031000 +0800">
 		<title lang="zh">中超精华 第24轮</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20260830031500 +0800" stop="20260830055500 +0800">
+		<title lang="zh">足球世界-26/27赛季 西甲 第2轮 塞维利亚-马德里竞技 直播</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -49941,6 +49944,9 @@
 	<programme channel="newtv超级综艺" start="20260830022500 +0800" stop="20260830030900 +0800">
 		<title lang="zh">12_北上广不相信眼泪</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260830030900 +0800" stop="20260830050300 +0800">
+		<title lang="zh">影视留声机</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -49976,6 +49982,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260830022300 +0800" stop="20260830030900 +0800">
 		<title lang="zh">08_问心</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260830030900 +0800" stop="20260830035400 +0800">
+		<title lang="zh">09_问心</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -50537,6 +50546,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260830022200 +0800" stop="20260830030600 +0800">
 		<title lang="zh">13_秋蝉</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260830030600 +0800" stop="20260830033600 +0800">
+		<title lang="zh">徽封贡酒好物推荐</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
