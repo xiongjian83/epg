@@ -41190,6 +41190,9 @@
 	<programme channel="newtv超级综艺" start="20260831022900 +0800" stop="20260831031300 +0800">
 		<title lang="zh">17_北上广不相信眼泪</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260831031300 +0800" stop="20260831035800 +0800">
+		<title lang="zh">18_北上广不相信眼泪</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -41222,6 +41225,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260831023000 +0800" stop="20260831031600 +0800">
 		<title lang="zh">13_问心</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260831031600 +0800" stop="20260831040100 +0800">
+		<title lang="zh">14_问心</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -41783,6 +41789,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260831023300 +0800" stop="20260831030300 +0800">
 		<title lang="zh">徽封贡酒好物推荐</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260831030300 +0800" stop="20260831034600 +0800">
+		<title lang="zh">18_秋蝉</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
