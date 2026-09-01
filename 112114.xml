@@ -49884,6 +49884,9 @@
 	<programme channel="newtv超级综艺" start="20260902022400 +0800" stop="20260902030900 +0800">
 		<title lang="zh">30_北上广不相信眼泪</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260902030900 +0800" stop="20260902043200 +0800">
+		<title lang="zh">影视留声机</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
