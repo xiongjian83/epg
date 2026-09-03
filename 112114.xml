@@ -49275,6 +49275,9 @@
 	<programme channel="newtv超级综艺" start="20260904022800 +0800" stop="20260904031200 +0800">
 		<title lang="zh">41_北上广不相信眼泪</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260904031200 +0800" stop="20260904035700 +0800">
+		<title lang="zh">42_北上广不相信眼泪</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -49310,6 +49313,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260904022600 +0800" stop="20260904031200 +0800">
 		<title lang="zh">33_问心</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260904031200 +0800" stop="20260904035700 +0800">
+		<title lang="zh">34_问心</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -49874,6 +49880,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260904024900 +0800" stop="20260904031900 +0800">
 		<title lang="zh">杏花村好物推荐</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260904031900 +0800" stop="20260904040300 +0800">
+		<title lang="zh">39_秋蝉</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
