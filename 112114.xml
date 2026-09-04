@@ -49779,6 +49779,9 @@
 	<programme channel="newtv超级体育" start="20260905012200 +0800" stop="20260905024500 +0800">
 		<title lang="zh">国际足球赛场-26-27赛季英超联赛第2轮 考文垂城-赫尔城(4K)</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20260905024500 +0800" stop="20260905040000 +0800">
+		<title lang="zh">实况录像-2026年亚洲女排锦标赛 半决赛 1</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
