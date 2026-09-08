@@ -50160,6 +50160,9 @@
 	<programme channel="newtv超级综艺" start="20260909021900 +0800" stop="20260909030400 +0800">
 		<title lang="zh">28_种墨园</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260909030400 +0800" stop="20260909042800 +0800">
+		<title lang="zh">影视留声机</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
