@@ -16419,6 +16419,9 @@
 	<programme channel="咪咕综合体育" start="20260910012500 +0800" stop="20260910025500 +0800">
 		<title lang="zh">UFC格斗之夜283期 主赛</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20260910030000 +0800" stop="20260910034500 +0800">
+		<title lang="zh">英超精华-26/27赛季英超第1轮</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -50481,6 +50484,9 @@
 	<programme channel="newtv超级电影" start="20260910015400 +0800" stop="20260910032300 +0800">
 		<title lang="zh">坦克战</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20260910032300 +0800" stop="20260910044500 +0800">
+		<title lang="zh">机器人战警</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -50495,6 +50501,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260910022700 +0800" stop="20260910031300 +0800">
 		<title lang="zh">25_问心2</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260910031300 +0800" stop="20260910035900 +0800">
+		<title lang="zh">26_问心2</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -51059,6 +51068,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260910024900 +0800" stop="20260910031900 +0800">
 		<title lang="zh">杏花村好物推荐</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260910031900 +0800" stop="20260910040500 +0800">
+		<title lang="zh">19_孤战</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
