@@ -50160,6 +50160,9 @@
 	<programme channel="newtv超级综艺" start="20260911022000 +0800" stop="20260911030600 +0800">
 		<title lang="zh">06_照亮你</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260911030600 +0800" stop="20260911051000 +0800">
+		<title lang="zh">影视留声机</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
