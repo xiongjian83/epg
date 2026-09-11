@@ -15993,6 +15993,9 @@
 	<programme channel="咪咕综合体育" start="20260912023000 +0800" stop="20260912025500 +0800">
 		<title lang="zh">中超精华 第26轮</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20260912030000 +0800" stop="20260912053000 +0800">
+		<title lang="zh">网球世界-2026美国网球公开赛 男单半决赛 第1场 直播</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -49655,6 +49658,9 @@
 	</programme>
 	<programme channel="newtv超级综艺" start="20260912021800 +0800" stop="20260912030400 +0800">
 		<title lang="zh">11_照亮你</title>
+	</programme>
+	<programme channel="newtv超级综艺" start="20260912030400 +0800" stop="20260912034900 +0800">
+		<title lang="zh">12_照亮你</title>
 	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
