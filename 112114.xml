@@ -41904,6 +41904,9 @@
 	<programme channel="newtv超级综艺" start="20260914014600 +0800" stop="20260914023100 +0800">
 		<title lang="zh">23_照亮你</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260914023100 +0800" stop="20260914031800 +0800">
+		<title lang="zh">24_照亮你</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -41916,6 +41919,9 @@
 	<programme channel="newtv超级电影" start="20260914011600 +0800" stop="20260914024900 +0800">
 		<title lang="zh">山歌</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20260914024900 +0800" stop="20260914041500 +0800">
+		<title lang="zh">另类民兵葛二蛋</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -41927,6 +41933,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260914020000 +0800" stop="20260914024700 +0800">
 		<title lang="zh">04_平凡之路</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260914024700 +0800" stop="20260914033400 +0800">
+		<title lang="zh">05_平凡之路</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -42485,6 +42494,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260914014900 +0800" stop="20260914023500 +0800">
 		<title lang="zh">37_孤战</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260914023500 +0800" stop="20260914030500 +0800">
+		<title lang="zh">杏花村好物推荐</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
