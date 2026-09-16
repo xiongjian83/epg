@@ -16533,6 +16533,12 @@
 	<programme channel="咪咕综合体育" start="20260917004500 +0800" stop="20260917031500 +0800">
 		<title lang="zh">足球世界-26/27赛季 西甲 第6轮 马德里竞技-奥萨苏纳 直播</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20260917031500 +0800" stop="20260917032000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕综合体育" start="20260917032000 +0800" stop="20260917055000 +0800">
+		<title lang="zh">足球世界-26/27赛季 西甲 第6轮 巴塞罗那-桑坦德竞技 直播</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -50091,6 +50097,9 @@
 	<programme channel="newtv超级电视剧" start="20260917021900 +0800" stop="20260917030500 +0800">
 		<title lang="zh">20_平凡之路</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20260917030500 +0800" stop="20260917035100 +0800">
+		<title lang="zh">21_平凡之路</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -50654,6 +50663,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260917024300 +0800" stop="20260917031300 +0800">
 		<title lang="zh">徽封贡酒好物推荐</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260917031300 +0800" stop="20260917035600 +0800">
+		<title lang="zh">01_欢颜</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
