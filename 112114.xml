@@ -16347,6 +16347,9 @@
 	<programme channel="咪咕综合体育" start="20260920003000 +0800" stop="20260920025000 +0800">
 		<title lang="zh">足球世界-26/27赛季 德甲 第4轮 斯图加特-多特蒙德 直播</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20260920025000 +0800" stop="20260920030000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -16364,6 +16367,9 @@
 	</programme>
 	<programme channel="咪咕足球" start="20260920021000 +0800" stop="20260920022000 +0800">
 		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260920022000 +0800" stop="20260920035500 +0800">
+		<title lang="zh">NBL城燃之战-25/26赛季 季后赛半决赛G3 香港金牛-江西鲸裕清酒</title>
 	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
@@ -49569,6 +49575,9 @@
 	<programme channel="newtv超级综艺" start="20260920013900 +0800" stop="20260920022500 +0800">
 		<title lang="zh">22_平凡之路</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260920022500 +0800" stop="20260920031100 +0800">
+		<title lang="zh">23_平凡之路</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -49577,6 +49586,9 @@
 	</programme>
 	<programme channel="newtv超级体育" start="20260920010600 +0800" stop="20260920023600 +0800">
 		<title lang="zh">国际足球赛场-26-27赛季英超联赛第4轮 桑德兰-阿森纳(4K)</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20260920023600 +0800" stop="20260920040000 +0800">
+		<title lang="zh">实况录像-2025/2026赛季中国男子篮球职业联赛 半决赛 1</title>
 	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
@@ -49598,6 +49610,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260920014000 +0800" stop="20260920022600 +0800">
 		<title lang="zh">34_平凡之路</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260920022600 +0800" stop="20260920031200 +0800">
+		<title lang="zh">35_平凡之路</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -50153,6 +50168,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260920014900 +0800" stop="20260920021900 +0800">
 		<title lang="zh">白水杜康好物推荐</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260920021900 +0800" stop="20260920030400 +0800">
+		<title lang="zh">15_欢颜</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
