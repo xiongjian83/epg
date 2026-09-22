@@ -16221,6 +16221,9 @@
 	<programme channel="咪咕综合体育" start="20260923011000 +0800" stop="20260923031500 +0800">
 		<title lang="zh">UFC格斗之夜上海站 主赛</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20260923032000 +0800" stop="20260923034500 +0800">
+		<title lang="zh">中超精华 第24轮</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -49394,6 +49397,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260923030400 +0800" stop="20260923033400 +0800">
 		<title lang="zh">白水杜康好物推荐</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260923033400 +0800" stop="20260923041800 +0800">
+		<title lang="zh">13_烽烟尽处</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
