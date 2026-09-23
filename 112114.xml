@@ -49365,6 +49365,9 @@
 	<programme channel="newtv超级综艺" start="20260924023500 +0800" stop="20260924032100 +0800">
 		<title lang="zh">10_好团圆</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260924032100 +0800" stop="20260924051100 +0800">
+		<title lang="zh">影视留声机</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -49964,6 +49967,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260924023800 +0800" stop="20260924032100 +0800">
 		<title lang="zh">18_烽烟尽处</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260924032100 +0800" stop="20260924035100 +0800">
+		<title lang="zh">白水杜康好物推荐</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
