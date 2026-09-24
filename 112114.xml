@@ -16011,6 +16011,9 @@
 	<programme channel="咪咕综合体育" start="20260925011500 +0800" stop="20260925034000 +0800">
 		<title lang="zh">UFC第330期 主赛</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20260925034000 +0800" stop="20260925040000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -49052,6 +49055,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20260925022600 +0800" stop="20260925035200 +0800">
 		<title lang="zh">我爱冒牌机器女友</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20260925035200 +0800" stop="20260925050500 +0800">
+		<title lang="zh">西游记红孩儿</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
