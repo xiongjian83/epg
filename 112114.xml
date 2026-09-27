@@ -37395,6 +37395,9 @@
 	<programme channel="newtv超级电影" start="20260928021500 +0800" stop="20260928033100 +0800">
 		<title lang="zh">桃花诗社</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20260928033100 +0800" stop="20260928045300 +0800">
+		<title lang="zh">加油二师兄</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
