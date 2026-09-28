@@ -49005,6 +49005,9 @@
 	<programme channel="newtv超级体育" start="20260929053000 +0800" stop="20260929060000 +0800">
 		<title lang="zh">实况录像-精品赛事记录-2026年射箭世界杯墨西哥站 中国队金牌2</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20260929060000 +0800" stop="20260929063000 +0800">
+		<title lang="zh">2026/2027英格兰足球超级联赛-第2轮集锦(4K)</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -49019,6 +49022,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20260929041600 +0800" stop="20260929055400 +0800">
 		<title lang="zh">特工过家家</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20260929055400 +0800" stop="20260929073100 +0800">
+		<title lang="zh">果戈里b7起点</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -49622,6 +49628,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260929050500 +0800" stop="20260929055000 +0800">
 		<title lang="zh">07_风声</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260929055000 +0800" stop="20260929062000 +0800">
+		<title lang="zh">白水杜康好物推荐</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
