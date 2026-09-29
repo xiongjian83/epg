@@ -16233,6 +16233,9 @@
 	<programme channel="咪咕足球" start="20260930040500 +0800" stop="20260930044000 +0800">
 		<title lang="zh">西班牙篮球黄金一代03 美式问候</title>
 	</programme>
+	<programme channel="咪咕足球" start="20260930044000 +0800" stop="20260930045000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
 	</channel>
@@ -49335,6 +49338,9 @@
 	<programme channel="newtv超级综艺" start="20260930025400 +0800" stop="20260930044100 +0800">
 		<title lang="zh">影视留声机</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260930044100 +0800" stop="20260930055600 +0800">
+		<title lang="zh">你好时光</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -49362,6 +49368,9 @@
 	<programme channel="newtv超级电影" start="20260930030400 +0800" stop="20260930042500 +0800">
 		<title lang="zh">跨越时空去爱你</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20260930042500 +0800" stop="20260930055800 +0800">
+		<title lang="zh">山歌</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -49382,6 +49391,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260930042000 +0800" stop="20260930042500 +0800">
 		<title lang="zh">星推荐</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260930042500 +0800" stop="20260930051000 +0800">
+		<title lang="zh">26_情满九道弯</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -49952,6 +49964,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260930035800 +0800" stop="20260930044300 +0800">
 		<title lang="zh">11_风声</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260930044300 +0800" stop="20260930051300 +0800">
+		<title lang="zh">白水杜康好物推荐</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
