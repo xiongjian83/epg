@@ -16161,6 +16161,9 @@
 	<programme channel="咪咕足球" start="20261003040500 +0800" stop="20261003044000 +0800">
 		<title lang="zh">西班牙篮球黄金一代04 打败法国队吧</title>
 	</programme>
+	<programme channel="咪咕足球" start="20261003044000 +0800" stop="20261003045000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
 	</channel>
@@ -50013,6 +50016,9 @@
 	<programme channel="newtv超级电视剧" start="20261003033800 +0800" stop="20261003042400 +0800">
 		<title lang="zh">17_青山是故乡</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20261003042400 +0800" stop="20261003050900 +0800">
+		<title lang="zh">38_情满九道弯</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -50582,6 +50588,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20261003035000 +0800" stop="20261003043500 +0800">
 		<title lang="zh">26_风声</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20261003043500 +0800" stop="20261003050500 +0800">
+		<title lang="zh">白水杜康好物推荐</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
