@@ -49686,6 +49686,9 @@
 	<programme channel="newtv超级综艺" start="20261004023600 +0800" stop="20261004032000 +0800">
 		<title lang="zh">32_最好的时代</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20261004032000 +0800" stop="20261004045600 +0800">
+		<title lang="zh">影视留声机</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -49707,6 +49710,9 @@
 	<programme channel="newtv超级电影" start="20261004013700 +0800" stop="20261004025300 +0800">
 		<title lang="zh">毒战生死线2</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20261004025300 +0800" stop="20261004041100 +0800">
+		<title lang="zh">澡堂也疯狂</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -49721,6 +49727,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20261004021900 +0800" stop="20261004030500 +0800">
 		<title lang="zh">21_青山是故乡</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20261004030500 +0800" stop="20261004035100 +0800">
+		<title lang="zh">22_青山是故乡</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -50282,6 +50291,12 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20261004020600 +0800" stop="20261004025100 +0800">
 		<title lang="zh">29_风声</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20261004025100 +0800" stop="20261004032100 +0800">
+		<title lang="zh">白水杜康好物推荐</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20261004032100 +0800" stop="20261004040600 +0800">
+		<title lang="zh">30_风声</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
