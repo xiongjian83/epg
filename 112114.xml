@@ -12633,6 +12633,9 @@
 	<programme channel="咪咕综合体育" start="20261005010000 +0800" stop="20261005033500 +0800">
 		<title lang="zh">JCK王者系列第012期</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20261005033500 +0800" stop="20261005034000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -40707,6 +40710,9 @@
 	<programme channel="newtv超级综艺" start="20261005024800 +0800" stop="20261005032600 +0800">
 		<title lang="zh">02_舌尖上的心跳</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20261005032600 +0800" stop="20261005050900 +0800">
+		<title lang="zh">影视留声机</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -40742,6 +40748,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20261005023400 +0800" stop="20261005032000 +0800">
 		<title lang="zh">26_青山是故乡</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20261005032000 +0800" stop="20261005040600 +0800">
+		<title lang="zh">27_青山是故乡</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
