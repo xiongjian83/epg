@@ -16140,6 +16140,9 @@
 	<programme channel="咪咕足球" start="20261011022000 +0800" stop="20261011035500 +0800">
 		<title lang="zh">NBL城燃之战-25/26赛季 常规赛第24轮 香港金牛-张家口体文旅</title>
 	</programme>
+	<programme channel="咪咕足球" start="20261011040500 +0800" stop="20261011044000 +0800">
+		<title lang="zh">西班牙篮球黄金一代05 接班人们</title>
+	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
 	</channel>
@@ -48774,6 +48777,9 @@
 	<programme channel="newtv超级体育" start="20261011023600 +0800" stop="20261011040000 +0800">
 		<title lang="zh">实况录像-2025/2026赛季中国男子篮球职业联赛 总决赛 1</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20261011040000 +0800" stop="20261011053000 +0800">
+		<title lang="zh">实况录像-2026年世界田联钻石联赛 布鲁塞尔站 2</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -48803,6 +48809,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20261011032100 +0800" stop="20261011040600 +0800">
 		<title lang="zh">28_依然的喜事</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20261011040600 +0800" stop="20261011041000 +0800">
+		<title lang="zh">星推荐</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
