@@ -49344,6 +49344,9 @@
 	<programme channel="newtv超级综艺" start="20261016024800 +0800" stop="20261016033400 +0800">
 		<title lang="zh">27_爱情有烟火</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20261016033400 +0800" stop="20261016042000 +0800">
+		<title lang="zh">28_爱情有烟火</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
