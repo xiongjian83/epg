@@ -49383,6 +49383,9 @@
 	<programme channel="newtv超级综艺" start="20261017023500 +0800" stop="20261017032100 +0800">
 		<title lang="zh">34_爱情有烟火</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20261017032100 +0800" stop="20261017052200 +0800">
+		<title lang="zh">影视留声机</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -49418,6 +49421,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20261017023400 +0800" stop="20261017031900 +0800">
 		<title lang="zh">27_特战荣耀</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20261017031900 +0800" stop="20261017040500 +0800">
+		<title lang="zh">28_特战荣耀</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -49982,6 +49988,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20261017025500 +0800" stop="20261017032500 +0800">
 		<title lang="zh">珍膳私享特膳粉好物推荐第二期</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20261017032500 +0800" stop="20261017041100 +0800">
+		<title lang="zh">22_勇敢的心2</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
