@@ -48999,6 +48999,9 @@
 	<programme channel="newtv超级综艺" start="20261021025500 +0800" stop="20261021034200 +0800">
 		<title lang="zh">21_长安的荔枝</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20261021034200 +0800" stop="20261021042900 +0800">
+		<title lang="zh">22_长安的荔枝</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -49016,6 +49019,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20261021022100 +0800" stop="20261021033300 +0800">
 		<title lang="zh">西游记比丘国</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20261021033300 +0800" stop="20261021044200 +0800">
+		<title lang="zh">飞鸿笑传</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -49598,6 +49604,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20261021030800 +0800" stop="20261021033800 +0800">
 		<title lang="zh">珍膳私享特膳粉好物推荐第二期</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20261021033800 +0800" stop="20261021042400 +0800">
+		<title lang="zh">42_勇敢的心2</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
