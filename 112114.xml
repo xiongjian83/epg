@@ -16296,6 +16296,9 @@
 	<programme channel="咪咕综合体育" start="20261023030500 +0800" stop="20261023040000 +0800">
 		<title lang="zh">世界杯精华</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20261023040500 +0800" stop="20261023071000 +0800">
+		<title lang="zh">JCK觉城之夜N118期</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -16316,6 +16319,9 @@
 	</programme>
 	<programme channel="咪咕足球" start="20261023022000 +0800" stop="20261023035500 +0800">
 		<title lang="zh">NBL城燃之战-25/26赛季 常规赛第22轮 贵州猛龙-盐南苏科雄狮</title>
+	</programme>
+	<programme channel="咪咕足球" start="20261023040500 +0800" stop="20261023044000 +0800">
+		<title lang="zh">西班牙篮球黄金一代03 美式问候</title>
 	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
@@ -49215,6 +49221,9 @@
 	<programme channel="newtv超级体育" start="20261023013000 +0800" stop="20261023040000 +0800">
 		<title lang="zh">2026年世界体操锦标赛-男子个人全能决赛</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20261023040000 +0800" stop="20261023053000 +0800">
+		<title lang="zh">实况录像-2026年世界田联钻石联赛 西里西亚站</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -49223,6 +49232,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20261023023700 +0800" stop="20261023040000 +0800">
 		<title lang="zh">变异危机</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20261023040000 +0800" stop="20261023053700 +0800">
+		<title lang="zh">隐婚男女</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -49241,6 +49253,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20261023031400 +0800" stop="20261023035700 +0800">
 		<title lang="zh">42_红高粱</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20261023035700 +0800" stop="20261023044000 +0800">
+		<title lang="zh">43_红高粱</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -49808,6 +49823,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20261023031900 +0800" stop="20261023040500 +0800">
 		<title lang="zh">07_宿敌</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20261023040500 +0800" stop="20261023045100 +0800">
+		<title lang="zh">08_宿敌</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
