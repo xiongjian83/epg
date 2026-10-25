@@ -12564,6 +12564,9 @@
 	<programme channel="咪咕综合体育" start="20261026002000 +0800" stop="20261026024000 +0800">
 		<title lang="zh">足球世界-26/27赛季 德甲 第7轮 弗赖堡-拜仁慕尼黑 直播</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20261026024500 +0800" stop="20261026031000 +0800">
+		<title lang="zh">中超精华 第26轮</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -40764,6 +40767,9 @@
 	<programme channel="newtv超级电视剧" start="20261026021900 +0800" stop="20261026030500 +0800">
 		<title lang="zh">23_驻站</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20261026030500 +0800" stop="20261026034800 +0800">
+		<title lang="zh">54_红高粱</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -41321,6 +41327,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20261026020200 +0800" stop="20261026024800 +0800">
 		<title lang="zh">面具背后05</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20261026024800 +0800" stop="20261026031800 +0800">
+		<title lang="zh">珍膳私享特膳粉好物推荐第二期</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
