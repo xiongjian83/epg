@@ -16230,6 +16230,9 @@
 	<programme channel="咪咕足球" start="20261028040500 +0800" stop="20261028044000 +0800">
 		<title lang="zh">西班牙篮球黄金一代03 美式问候</title>
 	</programme>
+	<programme channel="咪咕足球" start="20261028045000 +0800" stop="20261028062000 +0800">
+		<title lang="zh">我爱女篮-25/26WCBA常规赛 第5轮 上海浦发银行-山西竹叶青酒</title>
+	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
 	</channel>
@@ -49719,6 +49722,9 @@
 	<programme channel="newtv超级电影" start="20261028031500 +0800" stop="20261028043600 +0800">
 		<title lang="zh">奇花记</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20261028043600 +0800" stop="20261028054000 +0800">
+		<title lang="zh">无名客栈之麒麟觉醒</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -49739,6 +49745,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20261028034800 +0800" stop="20261028043400 +0800">
 		<title lang="zh">03_种墨园</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20261028043400 +0800" stop="20261028051900 +0800">
+		<title lang="zh">04_种墨园</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -50309,6 +50318,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20261028041500 +0800" stop="20261028044500 +0800">
 		<title lang="zh">珍膳私享特膳粉好物推荐第四期</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20261028044500 +0800" stop="20261028053000 +0800">
+		<title lang="zh">面具背后17</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
