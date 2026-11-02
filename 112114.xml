@@ -55515,6 +55515,9 @@
 	<programme channel="newtv超级综艺" start="20261103052300 +0800" stop="20261103070700 +0800">
 		<title lang="zh">第二届丝路之星国际音乐大赛</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20261103070700 +0800" stop="20261103075700 +0800">
+		<title lang="zh">远山之约</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
