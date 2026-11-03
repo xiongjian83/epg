@@ -49791,6 +49791,9 @@
 	<programme channel="newtv超级体育" start="20261104040000 +0800" stop="20261104053000 +0800">
 		<title lang="zh">实况录像-2026年世界田联钻石联赛 巴黎站</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20261104053000 +0800" stop="20261104060000 +0800">
+		<title lang="zh">实况录像-2026年射箭世界杯 中国站 3</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -49829,6 +49832,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20261104045800 +0800" stop="20261104054300 +0800">
 		<title lang="zh">31_种墨园</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20261104054300 +0800" stop="20261104062900 +0800">
+		<title lang="zh">32_种墨园</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
