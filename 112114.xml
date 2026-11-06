@@ -49074,6 +49074,9 @@
 	<programme channel="newtv超级体育" start="20261107040000 +0800" stop="20261107053000 +0800">
 		<title lang="zh">实况录像-2026年世界田联钻石联赛 伦敦站</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20261107053000 +0800" stop="20261107060000 +0800">
+		<title lang="zh">实况录像-精品赛事记录-2026年射箭世界杯墨西哥站 中国队金牌1</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -49085,6 +49088,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20261107034100 +0800" stop="20261107050500 +0800">
 		<title lang="zh">暗潮汹涌之惊魂12小时</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20261107050500 +0800" stop="20261107064200 +0800">
+		<title lang="zh">屠夫之子</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -49109,6 +49115,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20261107043800 +0800" stop="20261107052300 +0800">
 		<title lang="zh">09_林海雪原</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20261107052300 +0800" stop="20261107060700 +0800">
+		<title lang="zh">10_林海雪原</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
