@@ -45207,6 +45207,9 @@
 	<programme channel="newtv超级体育" start="20261114053000 +0800" stop="20261114060000 +0800">
 		<title lang="zh">实况录像-2026年射箭世界杯 中国站 2</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20261114060000 +0800" stop="20261114063000 +0800">
+		<title lang="zh">2026/2027法国足球甲级联赛-第7轮集锦</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -45827,6 +45830,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20261114051600 +0800" stop="20261114060100 +0800">
 		<title lang="zh">29_前夜</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20261114060100 +0800" stop="20261114063100 +0800">
+		<title lang="zh">珍膳私享特膳粉第5期</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
