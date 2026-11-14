@@ -15282,6 +15282,9 @@
 	<programme channel="咪咕足球" start="20261115040000 +0800" stop="20261115043500 +0800">
 		<title lang="zh">西班牙篮球黄金一代05 接班人们</title>
 	</programme>
+	<programme channel="咪咕足球" start="20261115044500 +0800" stop="20261115062500 +0800">
+		<title lang="zh">当燃CBA-26/27赛季常规赛第1轮 宁波町渥-北京控股</title>
+	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
 	</channel>
@@ -47418,6 +47421,9 @@
 	<programme channel="newtv超级电视剧" start="20261115035700 +0800" stop="20261115044200 +0800">
 		<title lang="zh">40_林海雪原</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20261115044200 +0800" stop="20261115052600 +0800">
+		<title lang="zh">41_林海雪原</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -47984,6 +47990,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20261115034300 +0800" stop="20261115042700 +0800">
 		<title lang="zh">23_风声</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20261115042700 +0800" stop="20261115045700 +0800">
+		<title lang="zh">珍膳私享特膳粉第5期</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
