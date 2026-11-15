@@ -40446,6 +40446,9 @@
 	<programme channel="newtv超级综艺" start="20261116034700 +0800" stop="20261116044700 +0800">
 		<title lang="zh">影视留声机</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20261116044700 +0800" stop="20261116063100 +0800">
+		<title lang="zh">第二届丝路之星国际音乐大赛</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -40493,6 +40496,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20261116040600 +0800" stop="20261116045000 +0800">
 		<title lang="zh">44_林海雪原</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20261116045000 +0800" stop="20261116053500 +0800">
+		<title lang="zh">45_林海雪原</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -41060,6 +41066,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20261116040800 +0800" stop="20261116043800 +0800">
 		<title lang="zh">珍膳私享特膳粉第5期</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20261116043800 +0800" stop="20261116052300 +0800">
+		<title lang="zh">29_风声</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
