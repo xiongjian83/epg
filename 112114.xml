@@ -45297,6 +45297,9 @@
 	<programme channel="newtv超级体育" start="20261122040000 +0800" stop="20261122053000 +0800">
 		<title lang="zh">实况录像-2026年世界田联钻石联赛 伦敦站</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20261122053000 +0800" stop="20261122060000 +0800">
+		<title lang="zh">实况录像-精品赛事记录-2026年射箭世界杯墨西哥站 中国队金牌2</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -45908,6 +45911,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20261122043700 +0800" stop="20261122052300 +0800">
 		<title lang="zh">21_女人的抗战</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20261122052300 +0800" stop="20261122060800 +0800">
+		<title lang="zh">37_孤战</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
