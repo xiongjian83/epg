@@ -12294,6 +12294,9 @@
 	<programme channel="咪咕综合体育" start="20261128061500 +0800" stop="20261128075500 +0800">
 		<title lang="zh">当燃CBA-26/27赛季常规赛第8轮 南京同曦宙光-江苏肯帝亚</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20261128080000 +0800" stop="20261128082000 +0800">
+		<title lang="zh">咪咕体育日报直播</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -37275,6 +37278,9 @@
 	<programme channel="newtv超级综艺" start="20261128063800 +0800" stop="20261128075700 +0800">
 		<title lang="zh">CMG夏日歌会</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20261128075700 +0800" stop="20261128091400 +0800">
+		<title lang="zh">全民畅舞</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -37301,6 +37307,9 @@
 	</programme>
 	<programme channel="newtv超级体育" start="20261128070000 +0800" stop="20261128080300 +0800">
 		<title lang="zh">体坛晨报</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20261128080300 +0800" stop="20261128085500 +0800">
+		<title lang="zh">实况录像-2026年世界职业拳王争霸赛 13</title>
 	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
@@ -37352,6 +37361,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20261128073000 +0800" stop="20261128073500 +0800">
 		<title lang="zh">星推荐</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20261128073500 +0800" stop="20261128082000 +0800">
+		<title lang="zh">07_蒸蒸日上</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -37937,6 +37949,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20261128072000 +0800" stop="20261128075500 +0800">
 		<title lang="zh">RINEWANN经典蚝式钻石机械腕表-渠道（右）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20261128075500 +0800" stop="20261128084000 +0800">
+		<title lang="zh">17_雾都魅影</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
